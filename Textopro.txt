@@ -1,0 +1,7 @@
+Git es un sistema de control de versiones distribuido, diseñado para manejar proyectos de cualquier tamaño con rapidez y eficiencia. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta esencial para los desarrolladores de software.
+
+Git permite a los desarrolladores trabajar en un mismo proyecto de forma colaborativa, manteniendo un historial de cambios y versiones de cada archivo. Esto significa que si un error se introduce en el código, se puede retroceder a una versión anterior para solucionarlo.
+
+Además, Git es muy flexible y se puede integrar con otras herramientas de desarrollo, como GitHub, Bitbucket y GitLab. Estas plataformas permiten a los desarrolladores alojar sus proyectos en línea y colaborar con otros desarrolladores de todo el mundo.
+
+En resumen, Git es una herramienta esencial para cualquier desarrollador de software que quiera trabajar de forma colaborativa y mantener un historial de cambios y versiones de su proyecto.
